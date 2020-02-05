@@ -1,0 +1,3 @@
+/home/ghadeera/CLionProjects/C Recap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ghadeera/CLionProjects/C Recap/cmake-build-debug/CMakeFiles/C_Recap.dir
+/home/ghadeera/CLionProjects/C Recap/cmake-build-debug/CMakeFiles/edit_cache.dir
